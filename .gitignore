@@ -1,0 +1,78 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+.venv/
+ENV/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python-specific cache files
+*.log
+*.pot
+*.pyc
+*.pyo
+*.pyd
+
+# Distribution / packaging
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# PyInstaller
+*.spec
+
+# Deep learning model files
+*.h5
+*.hdf5
+*.ckpt
+*.pb
+*.pth
+*.pt
+*.tflite
+
+# Dataset and output directories
+data/
+output/
+logs/
+checkpoints/
+
+# VS Code settings
+.vscode/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Jupyter Notebook hidden folders
+jupyter_notebook_config.py
+
+# Test/report cache
+.cache/
+coverage/
+*.cover
+coverage.xml
+*.db
+
+# Temporary files
+*.bak
+*.swp
+*.tmp
